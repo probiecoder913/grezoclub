@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probiecoder913/grezoclub.git"
+  },
+  "keywords": [
+    "grezoclub"
+  ],
+  "author": "Ankit Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/probiecoder913/grezoclub/issues"
+  },
+  "homepage": "https://github.com/probiecoder913/grezoclub#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
